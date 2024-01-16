@@ -1,19 +1,19 @@
-# ДелиЧек
+# SplitCheck
 
-ДелиЧек - это телеграм-бот, созданный для упрощения процесса дележки чека после похода в кафе/ресторан/клуб
+SplitCheck is a telegram bot created to simplify the process of dividing a check after going to a cafe/restaurant/club
 
-## Запуск бота
+## Run but
 
-В директории проекта необходимо создать файл ".env" и создать в нем переменную TOKEN_API со значением токена телеграм-бота
+In the project directory you need to create a ".env" file and create a TOKEN_API variable in it with the value of the telegram bot token
 
 ```env
 TOKEN_API = '~teleram-bot-token~'
 ```
 
-Установить библиотеки из "requirements.txt" следующей консольной командой
+Install libraries from "requirements.txt" with the following console command
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Запустить файл main.py
+Run file main.py
